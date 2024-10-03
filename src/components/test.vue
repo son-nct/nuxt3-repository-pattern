@@ -1,7 +1,7 @@
 <script setup>
-const a = 1;
+  const a = 1
 </script>
 
 <template>
-{{ a }}
+  {{ a }}
 </template>
